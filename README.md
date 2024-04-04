@@ -20,9 +20,9 @@ This Data Analysis project aims to provide an insights into the United States Sa
 
 ### Data Sources
 
-1. **Sales data**: The primary data set for this analysis is the "Sales.xlsx",containing detailed information about sales made by customers.
-2. **Customer data**: The secondary data set for this analysis is the "Customer.xlsx",containing detailed information about the customers.
-3. **Product data**: The tertiary data set for this analysis is the "Product.xlsx",containing detailed information about the products ordered by customers.
+1. **Sales data**: The primary data set for this analysis is the "Sales.csv",containing detailed information about sales made by customers.
+2. **Customer data**: The secondary data set for this analysis is the "Customer.csv",containing detailed information about the customers.
+3. **Product data**: The tertiary data set for this analysis is the "Product.csv",containing detailed information about the products ordered by customers.
 
 ### Tools
 
