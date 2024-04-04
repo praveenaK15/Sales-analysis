@@ -14,6 +14,9 @@
 
 This Data Analysis project aims to provide an insights into the United States Sales Perfomance.By analyzing various aspects of Sales data,customer data and product data,we seek to identify trend,make data-driven recommendations and gain deep understanding of the sales region wise in United States.
 
+!Dashboard
+![Sales Dashboard](https://github.com/praveenaK15/Sales-analysis/assets/164007130/fd741817-b7e7-4f8b-bb96-3d6fbc7edf35)
+
 
 ### Data Sources
 
